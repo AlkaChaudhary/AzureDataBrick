@@ -23,7 +23,7 @@ When you create a resource, please select Premium plan.
 - After the resource is created, launch Databricks workspace UI by clicking "Launch Workspace".
 - Create a compute (cluster) in Databricks UI. (Select "Compute" menu and proceed to create.)<br>
 Please select runtime in ML (not a standard runtime).
-- Clone this repository by running the following command. (Or download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc).)<br>
+- Clone this repository by running the following command. (Or download [HandsOn.dbc](https://github.com/AlkaChaudhary/azure-databricks-exercise/raw/master/HandsOn.dbc).)<br>
 ```git clone https://github.com/tsmatz/azure-databricks-exercise```
 - Import ```HandsOn.dbc``` into your Databricks workspace as follows.
     - Select "Workspace" in Workspace UI.
