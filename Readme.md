@@ -1,4 +1,4 @@
-# Azure Databricks Hands-on (Tutorials
+# Azure Databricks Hands-on (Tutorials)
 
 To run these exercises, follow each instructions below in this readme.
 
