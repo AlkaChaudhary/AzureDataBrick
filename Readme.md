@@ -5,7 +5,7 @@ To run these exercises, follow each instructions below in this readme.
 1. [Storage Settings](https://tsmatz.github.io/azure-databricks-exercise/exercise01-blob.html)
 2. [Basics of PySpark, Spark Dataframe, and Spark Machine Learning](https://tsmatz.github.io/azure-databricks-exercise/exercise02-pyspark-dataframe.html)
 3. [Spark Machine Learning Pipeline](https://tsmatz.github.io/azure-databricks-exercise/exercise03-sparkml-pipeline.html)
-4. [Hyper-parameter Tuning](https://tsmatz.github.io/azure-databricks-exercise/exercise04-hyperparams-tuning.html)
+4. [Hyper-parameter Tuning](https://AlkaChaudhary.github.io/azure-databricks-exercise/exercise04-hyperparams-tuning.html)
 5. [MLeap](https://tsmatz.github.io/azure-databricks-exercise/exercise05-mleap.html) (requires ML runtime)
 6. [Spark PyTorch Distributor](https://tsmatz.github.io/azure-databricks-exercise/exercise06-dnn-distributor.html) (requires ML runtime)
 7. [Structured Streaming (Basic)](https://tsmatz.github.io/azure-databricks-exercise/exercise07-structured-streaming.html)
